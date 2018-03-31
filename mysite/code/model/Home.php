@@ -2,7 +2,7 @@
 
 class Home extends Page
 {
-  private static $db = array(
+    private static $db = array(
 
     );
 
